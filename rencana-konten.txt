@@ -1,0 +1,7 @@
+Rencana konten data science
+
+- sklearn 
+- time series
+- nlp
+- komputer vision
+- deep learning
