@@ -5,4 +5,6 @@ Rencana konten data science
 - nlp buat pasar audience
   * penelitian audience
 - komputer vision
+ * face detecttion
 - deep learning
+ * nlp masih payah
