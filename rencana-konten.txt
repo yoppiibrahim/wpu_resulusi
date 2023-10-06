@@ -1,0 +1,8 @@
+Rencana konten data science
+
+- sklearn 
+- time series
+- nlp buat pasar audience
+  * penelitian audience
+- komputer vision
+- deep learning
