@@ -8,3 +8,4 @@ Rencana konten data science
  * face detecttion
 - deep learning
  * nlp masih payah
+- api pakai docker
