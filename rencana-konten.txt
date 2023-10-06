@@ -2,6 +2,7 @@ Rencana konten data science
 
 - sklearn 
 - time series
-- nlp
+- nlp buat pasar audience
+  * penelitian audience
 - komputer vision
 - deep learning
